@@ -1,6 +1,0 @@
-{
-  "name": "FileFox",
-  "description": "A secure, lightning-fast client-side image and video format converter.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
